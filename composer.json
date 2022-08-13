@@ -1,0 +1,8 @@
+{
+    "name":"herculanosilva/reastreio-correios",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
